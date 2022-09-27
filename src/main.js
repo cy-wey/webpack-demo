@@ -3,8 +3,6 @@ import jpg from "./assets/1.jpg"
 
 console.log(jpg);
 const div = document.getElementById('app')
-div.innerHTML = `
-`
 console.log("webpack")
 
 const button = document.createElement('button')
